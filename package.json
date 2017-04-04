@@ -10,5 +10,8 @@
     "tutorial"
   ],
   "author": "Prima Aulia Gusta",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^1.2.0"
+  }
 }
